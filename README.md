@@ -3,7 +3,11 @@ I'm currently engaged in various projects to enhance my GitHub profile and impro
 
 
 <h1 align="center">Projects</h1>
-<img src="file:///C:/Users/matth/OneDrive/Pictures/saraLogo.png"/>
+<p align="center">
+
+![saraLogo](https://github.com/Matthew82-def/Matthew82-def/assets/84039703/bef34d02-01a4-41b3-8012-15afd6177007)
+
+</p>
 
  <a href="https://www.nonproadco.com/" target="_blank">NonPro AdCo</a>
 
