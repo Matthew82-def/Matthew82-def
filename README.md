@@ -3,6 +3,8 @@ I'm currently engaged in various projects to enhance my GitHub profile and impro
 
 
 <h1 align="center">Projects</h1>
+<img src="file:///C:/Users/matth/OneDrive/Pictures/saraLogo.png"/>
+
  <a href="https://www.nonproadco.com/" target="_blank">NonPro AdCo</a>
 
 
